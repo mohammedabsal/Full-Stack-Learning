@@ -1,22 +1,17 @@
-body{
-    width:100%;
-    margin:0px;
+
+.container{
+margin-top:100px;
+}
+.logo{
+    width:400px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 
 }
-.flag{
-    margin-top:10%;
-    margin-left:10%;
-    margin-right:10%;
-}
-.first{
-    background:rgb(235, 113, 7);
-    height:100px;
-}
-.second{
-background:white;
-height:100px;
-}
-.third{
-    background:green;
-    height:100px;
+.input-one{
+    width:300px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 }
