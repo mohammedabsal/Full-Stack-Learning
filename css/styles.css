@@ -1,0 +1,22 @@
+body{
+    width:100%;
+    margin:0px;
+
+}
+.flag{
+    margin-top:10%;
+    margin-left:10%;
+    margin-right:10%;
+}
+.first{
+    background:rgb(235, 113, 7);
+    height:100px;
+}
+.second{
+background:white;
+height:100px;
+}
+.third{
+    background:green;
+    height:100px;
+}
